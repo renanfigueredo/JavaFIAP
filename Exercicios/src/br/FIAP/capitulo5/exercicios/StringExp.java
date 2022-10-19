@@ -12,7 +12,7 @@ public class StringExp {
 		String nome2 = new String("Maça");
 
 		//Nesse terceiro caso, a declaração da var fica armazenado na memoria de execução do projeto "cash"
-		String nome3 = "Maça";
+		String nome3;
 
 
 		//Concatenar strings:

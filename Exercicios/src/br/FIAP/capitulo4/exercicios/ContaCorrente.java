@@ -12,7 +12,7 @@ public class ContaCorrente extends Conta {
 	}
 	
 	
-	//Sobresquevendo um método (Polimorfismo), quando pegamos um método "emprestado" da classe mãe, precisamos usar o @overrite para informar que vamos sobresquever o método
+	//Sobresquevendo um método (Polimorfismo), quando pegamos um método "emprestado" da classe mãe, precisamos usar o @overrite para informar que vamos sobrescrever o método
 	@Override 
 	public void retirar(double valor) {
 		

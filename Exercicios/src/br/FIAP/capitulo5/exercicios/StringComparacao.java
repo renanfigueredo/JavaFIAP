@@ -9,7 +9,7 @@ public class StringComparacao {
 		String nome3 = new String("maça");
 
 		
-		//A melhor maneira de conparar strings é usando o equals:
+		//A melhor maneira de comparar strings é usando o equals:
 		
 		//Comparando como estão escritas:
 		System.out.println(nome.equals(nome2)); // falso pq nome2 tem "M"

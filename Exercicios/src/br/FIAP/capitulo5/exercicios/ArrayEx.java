@@ -4,7 +4,7 @@ public class ArrayEx {
 
 	public static void main(String[] args) {
 		
-		//Declaração do Array: (estrutura de dados simples que armazena uma coleção de itens do mesmo tipo 
+		//Definição do Array: (estrutura de dados simples que armazena uma coleção de itens do mesmo tipo 
 		
 		/*// Utilizando dados Primitivos:
 		int tamanhoArray =5;
